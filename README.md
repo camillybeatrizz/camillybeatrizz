@@ -8,7 +8,7 @@ O objetivo deste projeto é centralizar minhas experiências e projetos em um ú
 
 ## 🌐 Acesse
 
-Você pode visualizar o portfólio online (caso tenha publicado, por exemplo no GitHub Pages):  
+Você pode visualizar o portfólio online:  
 📎 [https://camillybeatrizz.github.io/Portfolio-Curriculo](https://github.com/camillybeatrizz/Portfolio-Curriculo)
 
 ---
